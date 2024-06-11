@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Rahul Mehandiratta 👋
+
+A passionate full stack developer. when i'm not coding i'm either spending time with my family or enjoying with my friends.
 
 <!--
 **rahulmehandiratta/rahulmehandiratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
